@@ -1,6 +1,5 @@
 # Lembaga Kelembagaan Desa
 ### Struktur Pengurus Karang Taruna
-Berdasarkan Perdes Nomor 
 | NO | NAMA                 | JABATAN                         |
 |----|----------------------|---------------------------------|
 | 1  | Akh. Zainuddin       | Penanggung Jawab (Kades)        |
@@ -41,7 +40,7 @@ Berdasarkan Perdes Nomor
 | 36 | Abd. Somad           | Angg. Olahraga                  |
 | 37 | Nawawi               | Angg. Olahraga                  |
 | 38 | Nazar                | Angg. Olahraga                  |
-| 39 |                      |
+| 39 |                      |                                 |
 | 40 | Moh. Hosri           | Koord. Seni Budaya & Parawisata |
 | 41 | Feri                 | Wakil. Seni Budaya & Parawisata |
 | 42 | Faisol Amali         | Angg. Seni Budaya & Parawisata  |
